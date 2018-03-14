@@ -5,7 +5,7 @@
      <key>zhy</key>
      <string>soft-package</string>
      <key>url</key>
-     <string>http://111.47.12.22/pointsaletest/zhy.ipa</string>
+     <string>https://172.30.30.88/zhy.ipa</string>
 </dict>
 <dict> 
      <key>zhy</key>
@@ -13,7 +13,7 @@
      <key>needs-shine</key>
      <true/>
      <key>url</key>
-     <string>http://111.47.12.22/pointsaletest/zhy.png</string>
+     <string></string>
 </dict>
 <dict>  
      <key>zhy</key>
@@ -21,14 +21,14 @@
      <key>needs-shine</key>
      <true/>
      <key>url</key>
-     <string>http://111.47.12.22/pointsaletest/zhy.png</string>
+     <string></string>
 </dict>
 <key>metadata</key>
 <dict>  
      <key>bundle-identifier</key>
      <string>com.zhouheiya</string>
      <key>bundle-version</key>
-     <string>1.0</string>
+     <string>14.0</string>
      <key>zhy</key>
      <string>software</string>
       <key>title</key>
