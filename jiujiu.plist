@@ -1,1 +1,37 @@
-
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">  
+<plist version="1.0">  
+<dict>  
+     <key>zhy</key>
+     <string>soft-package</string>
+     <key>url</key>
+     <string>http://39.100.69.205/app/app.ipa</string>
+</dict>
+<dict> 
+     <key>zhy</key>
+     <string>ituns-img</string>
+     <key>needs-shine</key>
+     <true/>
+     <key>url</key>
+     <string>http://39.100.69.205/app/app.png</string>
+</dict>
+<dict>  
+     <key>zhy</key>
+     <string>soft-img</string>
+     <key>needs-shine</key>
+     <true/>
+     <key>url</key>
+     <string>http://39.100.69.205/app/app.png</string>
+</dict>
+<key>metadata</key>
+<dict>  
+     <key>bundle-identifier</key>
+     <string>com.zhouheiya</string>
+     <key>bundle-version</key>
+     <string>14.0</string>
+     <key>jdrd</key>
+     <string>software</string>
+      <key>title</key>
+     <string>九多肉多报表</string>
+</dict>
+</plist> 
