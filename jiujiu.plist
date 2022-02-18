@@ -2,13 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">  
 <plist version="1.0">  
 <dict>  
-     <key>zhy</key>
+     <key>jyq</key>
      <string>soft-package</string>
      <key>url</key>
      <string>http://112.89.210.214/app/app.ipa</string>
 </dict>
 <dict> 
-     <key>zhy</key>
+     <key>jyq</key>
      <string>ituns-img</string>
      <key>needs-shine</key>
      <true/>
@@ -16,7 +16,7 @@
      <string>http://112.89.210.214/app/app.png</string>
 </dict>
 <dict>  
-     <key>zhy</key>
+     <key>jyq</key>
      <string>soft-img</string>
      <key>needs-shine</key>
      <true/>
@@ -26,7 +26,7 @@
 <key>metadata</key>
 <dict>  
      <key>bundle-identifier</key>
-     <string>com.zhouheiya</string>
+     <string>com.jiuduorouduo</string>
      <key>bundle-version</key>
      <string>14.0</string>
      <key>jdrd</key>
