@@ -5,7 +5,7 @@
      <key>zhy</key>
      <string>soft-package</string>
      <key>url</key>
-     <string>http://39.100.69.205/app/app.ipa</string>
+     <string>http://112.89.210.214/app/app.ipa</string>
 </dict>
 <dict> 
      <key>zhy</key>
@@ -13,7 +13,7 @@
      <key>needs-shine</key>
      <true/>
      <key>url</key>
-     <string>http://39.100.69.205/app/app.png</string>
+     <string>http://112.89.210.214/app/app.png</string>
 </dict>
 <dict>  
      <key>zhy</key>
@@ -21,7 +21,7 @@
      <key>needs-shine</key>
      <true/>
      <key>url</key>
-     <string>http://39.100.69.205/app/app.png</string>
+     <string>http://112.89.210.214/app/app.png</string>
 </dict>
 <key>metadata</key>
 <dict>  
